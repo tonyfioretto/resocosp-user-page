@@ -1,0 +1,14 @@
+.user-header{
+    height: 100px;
+}
+.user-header div{
+    height: inherit;
+}
+.user-image {
+  animation: App-logo-spin infinite 20s linear;
+  height: inherit;
+}
+.user-page-header {
+  padding: 20px;
+}
+

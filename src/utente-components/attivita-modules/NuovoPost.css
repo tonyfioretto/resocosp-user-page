@@ -1,0 +1,33 @@
+.np-new-post-box{
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+.np-input-area{
+    resize: none;
+    height: 100px !important;
+}
+.np-publish{
+    float: right;
+}
+.np-footer div:first-child{
+    display: -webkit-inline-flex;
+}
+.np-allegato{
+    margin-right: 5px;
+}
+.np-allegato, .np-tags{
+    cursor: pointer;
+}
+.np-allegato span, .np-tags span{
+    font-weight: 600;
+    color: #337ab7;
+    margin-right: 3px;
+}
+.np-remove-allegato{
+    color:  #f00;
+    vertical-align: top;
+    margin-left: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.social-name{
+    font-weight: bold;
+}
+.add-social-link{
+    color: #66aaff;
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.add-social-link:hover{
+    color: #3377ff;
+}
+.input-web-contact{
+    margin-bottom: 0px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+.social-account-list{
+    margin-bottom: 10px;
+}
+.editInput{
+    display: none;
+}
+.info-tools{
+    color: #66aaff;
+    margin-right: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.editInfo:hover{
+    color: #3377ff;
+}
+.saveInfo{
+    display: none;
+    color: #66ffaa;
+}
+.saveInfo:hover{
+    color: #33ff77;
+}
+.undoInfo{
+    display: none;
+}
+.deleteInfo{
+    color: #ff66aa;
+}
+.deleteInfo:hover{
+    color: #ff3377;
+}

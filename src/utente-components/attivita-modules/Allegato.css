@@ -1,0 +1,18 @@
+.modal::before{
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+#np-allegato-preview{
+    color: #f00;
+    text-align: center;
+}
+.preview-allegato{
+    max-width: 80px;
+}

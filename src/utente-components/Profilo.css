@@ -1,0 +1,26 @@
+.panel-heading{
+    font-weight: bold;
+}
+.panel-body > .row{
+    margin-bottom: 10px;
+}
+.user-update-password-link{
+    color: #66aaff;
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.user-update-password-link:hover{
+    color: #3377ff;
+}
+.user-update-password-message{
+    color: #009966;
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    display: none;
+}
+.toggle-buttons{
+    float: right;
+}

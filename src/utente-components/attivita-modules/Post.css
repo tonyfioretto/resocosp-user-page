@@ -1,0 +1,70 @@
+.post-style{
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+.post-header{
+    padding: 10px 15px 5px 15px;
+}
+.post-header div:first-child{
+    text-align: center;
+}
+.user-name{
+    font-weight: 600;
+    margin: 5px 0;
+}
+.post-user-avatar{
+    height: 55px;
+}
+.post-data{
+    font-size: 14px;
+    color: #909090;
+    margin: 5px 0;
+}
+.post-actions a.dropdown-toggle{
+    padding: 0;
+}
+.post-actions ul{
+    min-width: inherit;
+}
+.post-actions:hover{
+    border-color: transparent;
+    background-color: transparent;
+}
+.post-body{
+    padding: 5px 15px;
+}
+.post-metainfo{
+    padding-right: 0px;
+}
+.post-metainfo p{
+    margin-bottom: 0px;
+}
+.metainfo-counter{
+    font-size: 12px;
+    margin-left: 5px;
+}
+.post-content{
+    margin-bottom: 10px;
+}
+.post-allegati{
+    text-align: center;
+}
+.post-modify-group div{
+    float: right;
+    margin: 5px 0;
+}
+.post-modify-group div button{
+    margin-left: 5px;
+}
+.post-comment{
+    float: right;
+}
+.post-comment div.form-group textarea{
+    resize: none;
+    height: 32px !important;
+    font-size: 12px;
+}
+.post-footer{
+    padding: 10px 15px;
+}
